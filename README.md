@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abbas 👋
 
-<!--
-**abbasdev57/abbasdev57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Developer** | Kotlin · Jetpack Compose · Flutter · Firebase
 
-Here are some ideas to get you started:
+Background in Java, C++, and core CS fundamentals 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build clean, well-architected mobile apps and I'm currently deepening my focus on native Android development with modern Jetpack Compose + MVVM.
+
+---
+### 🎓 Education
+- Holds a Degree in M.S. Computer Science From **Virtual University of Pakistan 2024**
+
+### 🔭 Currently
+- Building a **Notes/Diary app** for publishing on Google Play
+- Learning **Hilt** for dependency injection (coming from manual DI)
+- Strengthening my Android portfolio with real, working apps
+
+### 🛠️ Tech I work with
+
+**Languages:** Kotlin · Java · C++ · Dart
+
+**Android:** Jetpack Compose · MVVM · Retrofit · Coil · Coroutines
+
+**Cross-platform:** Flutter with Firebase using riverpod
+
+**Tools:** Git · GitHub · Android Studio · Google Play Console
+
+### 📌 Featured Projects
+*(Pin these on your profile — update links below)*
+
+- **Compose Playground** — Multi-screen Android app (Mars Photos / Amphibians / Cats API) using MVVM, manual DI via AppContainer, and Coil for image loading
+- **Notes/Diary App** — Personal productivity app, published on Google Play
+- **Flutter Project** — Freelance/cross-platform work
+
+### 📫 Reach me
+- LinkedIn: https://www.linkedin.com/in/abbas-bhatti57/
+
+---
+
+*Open to freelance work and full-time Android opportunities.*
