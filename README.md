@@ -26,7 +26,6 @@ I build clean, well-architected mobile apps and I'm currently deepening my focus
 **Tools:** Git · GitHub · Android Studio · Google Play Console
 
 ### 📌 Featured Projects
-*(Pin these on your profile — update links below)*
 
 - **Compose Playground** — Multi-screen Android app (Mars Photos / Amphibians / Cats API) using MVVM, manual DI via AppContainer, and Coil for image loading
 - **Notes/Diary App** — Personal productivity app, published on Google Play
